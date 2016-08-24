@@ -1,0 +1,8 @@
+[14-Sep-2015 02:10:36 UTC] PHP Fatal error:  Call to undefined function curPageURL() in /home/nickpacy/public_html/bet_tracking/index.php on line 10
+[14-Sep-2015 02:11:06 UTC] PHP Fatal error:  Call to undefined function curPageURL() in /home/nickpacy/public_html/bet_tracking/index.php on line 10
+[14-Sep-2015 02:11:08 UTC] PHP Fatal error:  Call to undefined function curPageURL() in /home/nickpacy/public_html/bet_tracking/index.php on line 10
+[22-Oct-2015 22:48:59 UTC] PHP Fatal error:  Call to a member function format() on a non-object in /home/nickpacy/public_html/bet_tracking/includes/pacy_fx.php on line 156
+[14-Jan-2016 09:37:05 America/New_York] PHP Fatal error:  Function name must be a string in /home/nickpacy/public_html/bet_tracking2/includes/header.php on line 29
+[14-Jan-2016 09:37:07 America/New_York] PHP Fatal error:  Function name must be a string in /home/nickpacy/public_html/bet_tracking2/includes/header.php on line 29
+[14-Jan-2016 09:37:54 America/New_York] PHP Fatal error:  Function name must be a string in /home/nickpacy/public_html/bet_tracking2/includes/header.php on line 29
+[01-Apr-2016 11:29:00 America/New_York] PHP Fatal error:  Call to undefined function rmt_and() in /home/nickpacy/public_html/bet_tracking/index.php on line 125

@@ -1,0 +1,6 @@
+[09-Nov-2015 02:22:31 UTC] PHP Fatal error:  Call to undefined function dec2Frac() in /home/nickpacy/public_html/bet_tracking/includes/pacy_ajax.php on line 596
+[09-Nov-2015 02:22:34 UTC] PHP Fatal error:  Call to undefined function dec2Frac() in /home/nickpacy/public_html/bet_tracking/includes/pacy_ajax.php on line 596
+[09-Nov-2015 02:23:18 UTC] PHP Fatal error:  Call to undefined function dec2Frac() in /home/nickpacy/public_html/bet_tracking/includes/pacy_ajax.php on line 596
+[09-Nov-2015 02:23:20 UTC] PHP Fatal error:  Call to undefined function dec2Frac() in /home/nickpacy/public_html/bet_tracking/includes/pacy_ajax.php on line 596
+[09-Nov-2015 02:25:59 UTC] PHP Fatal error:  Call to undefined function dec2Frac() in /home/nickpacy/public_html/bet_tracking/includes/pacy_ajax.php on line 598
+[09-Nov-2015 02:26:08 UTC] PHP Fatal error:  Call to undefined function dec2Frac() in /home/nickpacy/public_html/bet_tracking/includes/pacy_ajax.php on line 597
